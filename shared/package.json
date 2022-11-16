@@ -1,0 +1,6 @@
+{
+  "name": "parcel-cache-repro-shared",
+  "version": "1.0.0",
+  "description": "Dependency that is included by relative path",
+  "main": "main.js"
+}

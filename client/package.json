@@ -1,0 +1,14 @@
+{
+  "name": "parcel-cache-repro",
+  "version": "1.0.0",
+  "description": "Reproduce an issue where deleting .parcel-cache is required to get a working build",
+  "scripts": {
+    "serve": "parcel serve index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "parcel-cache-repro-shared": "file:../shared"
+  }
+}
